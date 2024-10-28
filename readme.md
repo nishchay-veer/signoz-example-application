@@ -57,8 +57,8 @@ The application collects the following metrics categories:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/go-runtime-metrics.git
-cd go-runtime-metrics
+git clone https://github.com/nishchay-veer/signoz-example-application.git
+cd signoz-example-application
 ```
 
 ### 2. Configure Environment Variables
